@@ -25,6 +25,7 @@ happ://routing/add/eyJSZW1vdGVETlNUeXBlIjoiRG9IIiwiVXNlQ2h1bmtGaWxlcyI6dHJ1ZSwiT
 
 ![](https://github.com/nik-171/guide-happ-vless/blob/main/pics/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-06%20134841.png)
 - (нажимаем на три точки)
+
 ![](https://github.com/nik-171/guide-happ-vless/blob/main/pics/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-06%20134903.png)
 ![](https://github.com/nik-171/guide-happ-vless/blob/main/pics/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-06%20134925.png)
 ![](https://github.com/nik-171/guide-happ-vless/blob/main/pics/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-06%20134952.png)
