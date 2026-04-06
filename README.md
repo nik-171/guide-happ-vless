@@ -13,6 +13,8 @@ https://github.com/Happ-proxy
 
 <hr>
 
+- гайды по настройке клиентов
+
 <details>
 <summary>гайд для десктопа</summary>
 
