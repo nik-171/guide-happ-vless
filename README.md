@@ -1,9 +1,9 @@
-<pre>
-           へ  ♡       
-        ૮ > <) 
-        / ⁻ ៸|                                                                                      
-     乀(ˍ,ل ل   
+<pre style="line-height: 1;">
+  /\_/\
+ ( o.o )
+  > ^ <
 </pre>
+
 <details>
 <summary>гайд для десктопа</summary>
 
