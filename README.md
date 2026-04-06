@@ -9,6 +9,8 @@
 
 https://github.com/Happ-proxy
 
+<hr>
+
 <details>
 <summary>гайд для десктопа</summary>
 
