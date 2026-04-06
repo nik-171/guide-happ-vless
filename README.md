@@ -5,6 +5,9 @@
     乀 (ˍ,ل ل    じしˍ,)ノ 
 </pre>
 
+- скачать клиент Happ можно по ссылке ниже
+https://github.com/Happ-proxy
+
 <details>
 <summary>гайд для десктопа</summary>
 
