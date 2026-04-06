@@ -71,3 +71,10 @@ happ://routing/add/eyJSZW1vdGVETlNUeXBlIjoiRG9IIiwiVXNlQ2h1bmtGaWxlcyI6dHJ1ZSwiT
 все готово!!
 
 </details>
+
+
+пользуйтесь 
+<pre>
+                 /\____/\
+               > •     •  <
+</pre>
